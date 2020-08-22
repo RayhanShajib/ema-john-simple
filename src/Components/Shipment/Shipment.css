@@ -1,0 +1,19 @@
+.shipform input {
+    display: block;
+    text-align: center;
+    margin: 1.4pc;
+}
+form.shipform {
+    margin-left: 32pc;
+    margin-top: 3pc;
+}
+input {
+    border-radius: 48px;
+    border: 1px solid black;
+}
+input.submit {
+    margin-left: 2.5pc;
+    width: 17%;
+    background: #333;
+    color: white;
+}
